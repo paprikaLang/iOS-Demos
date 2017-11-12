@@ -19,7 +19,6 @@
 		2F57F5191FB7A1CF00D13C92 /* gameover.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2F57F5141FB7A1CE00D13C92 /* gameover.mp3 */; };
 		2F57F51A1FB7A1CF00D13C92 /* levelup.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2F57F5151FB7A1CE00D13C92 /* levelup.mp3 */; };
 		2F57F51B1FB7A1CF00D13C92 /* theme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2F57F5161FB7A1CE00D13C92 /* theme.mp3 */; };
-		2F57F51F1FB7A21600D13C92 /* Sprites.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 2F57F51E1FB7A21600D13C92 /* Sprites.atlas */; };
 		2F57F5211FB7A67700D13C92 /* ArrayScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F57F5201FB7A67700D13C92 /* ArrayScene.swift */; };
 		2F57F5231FB7AEC500D13C92 /* Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F57F5221FB7AEC500D13C92 /* Block.swift */; };
 		2F57F5251FB7AFF700D13C92 /* shape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F57F5241FB7AFF700D13C92 /* shape.swift */; };
@@ -48,7 +47,6 @@
 		2F57F5141FB7A1CE00D13C92 /* gameover.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gameover.mp3; sourceTree = "<group>"; };
 		2F57F5151FB7A1CE00D13C92 /* levelup.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = levelup.mp3; sourceTree = "<group>"; };
 		2F57F5161FB7A1CE00D13C92 /* theme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = theme.mp3; sourceTree = "<group>"; };
-		2F57F51E1FB7A21600D13C92 /* Sprites.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; name = Sprites.atlas; path = "../../../Downloads/swiftris-master/Swiftris/Sprites.atlas"; sourceTree = "<group>"; };
 		2F57F5201FB7A67700D13C92 /* ArrayScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayScene.swift; sourceTree = "<group>"; };
 		2F57F5221FB7AEC500D13C92 /* Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Block.swift; sourceTree = "<group>"; };
 		2F57F5241FB7AFF700D13C92 /* shape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shape.swift; sourceTree = "<group>"; };
@@ -92,7 +90,6 @@
 		2F57F4F81FB79FCB00D13C92 /* Tetrominos */ = {
 			isa = PBXGroup;
 			children = (
-				2F57F51E1FB7A21600D13C92 /* Sprites.atlas */,
 				2F57F5111FB7A1CE00D13C92 /* Sounds */,
 				2F57F4F91FB79FCC00D13C92 /* AppDelegate.swift */,
 				2F57F5011FB79FCC00D13C92 /* GameViewController.swift */,
@@ -192,7 +189,6 @@
 				2F57F5051FB79FCC00D13C92 /* Main.storyboard in Resources */,
 				2F57F5171FB7A1CF00D13C92 /* bomb.mp3 in Resources */,
 				2F57F5071FB79FCC00D13C92 /* Assets.xcassets in Resources */,
-				2F57F51F1FB7A21600D13C92 /* Sprites.atlas in Resources */,
 				2F57F50A1FB79FCC00D13C92 /* LaunchScreen.storyboard in Resources */,
 				2F57F4FE1FB79FCC00D13C92 /* Actions.sks in Resources */,
 				2F57F51A1FB7A1CF00D13C92 /* levelup.mp3 in Resources */,

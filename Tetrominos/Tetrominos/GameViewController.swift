@@ -41,6 +41,9 @@ class GameViewController: UIViewController, TetrominosDelegate, UIGestureRecogni
 //    override func prefersStatusBarHidden() -> Bool {
 //        return true
 //    }
+    override var prefersStatusBarHidden: Bool{
+        return true
+    }
     @IBAction func didTap(sender: UITapGestureRecognizer) {
         swiftris.rotateShape()
     }
