@@ -24,7 +24,7 @@ class MusiumNode: SKShapeNode {
     }
     
     convenience init(musiumName :String) {
-        self.init()
+        //self.init()
         self.init(circleOfRadius: 40)
         
         fillColor = .red
