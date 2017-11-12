@@ -6,5 +6,7 @@
 
 [SpriteKit模拟iTunes Music的个人喜好定制功能](https://github.com/paprikaLang/iOS-Demos/tree/master/SpriteDemo)
 
+[SpriteKit开发游戏](https://github.com/paprikaLang/iOS-Demos/tree/master/Tetrominos)
+
 [模拟APP开屏广告视频](https://github.com/paprikaLang/iOS-Demos/tree/master/VideoSplash)
 
