@@ -10,3 +10,6 @@
 
 [模拟APP开屏广告视频](https://github.com/paprikaLang/iOS-Demos/tree/master/VideoSplash)
 
+[Web与Native传递图片数据信息](https://github.com/paprikaLang/iOS-Demos/tree/master/WebPicToNative)
+
+
