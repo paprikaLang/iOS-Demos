@@ -12,4 +12,6 @@
 
 [Web与Native传递图片数据信息](https://github.com/paprikaLang/iOS-Demos/tree/master/WebPicToNative)
 
+[CAReplicatorLayer相关动画](https://github.com/paprikaLang/iOS-Demos/tree/master/CAReplicator)
+
 
