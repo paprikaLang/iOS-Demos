@@ -17,10 +17,12 @@
     
 }
 -(void)arrayM_setObject:(id)str atIndexedSubscript:(NSUInteger)index{
-    if (index < self.count) {
+    if (index < self.count && str != nil) {
         [self arrayM_setObject:str atIndexedSubscript:index];
-    }else{
+    }else if(index > self.count && str != nil){
         NSLog(@"index %lu beyond bounds",(unsigned long)index);
+    }else{
+        NSLog(@"index %lu setObject: should not be nil",(unsigned long)index);
     }
     
 }

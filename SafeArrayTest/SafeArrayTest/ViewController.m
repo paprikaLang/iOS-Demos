@@ -33,8 +33,9 @@
     NSLog(@"self.array[5]: %@",self.arrayI[4]);
     NSLog(@"[self.array objectAtIndex:4]: %@",[self.arrayI objectAtIndex:4]);
     
-    self.arrayM[5] = @4;
-    NSLog(@"[self.mArray objectAtIndex:5]: %@",self.arrayM[5]);
+    self.arrayM[2] = nil; //迭代赋值时出现nil的情况并不会提示警告
+    self.arrayM[5] = @5;
+    NSLog(@"[self.mArray objectAtIndex:5]: %@",self.arrayM[2]);
     NSLog(@"[self.mArray objectAtIndex:5]: %@",[self.arrayM objectAtIndex:5]);
     
     NSLog(@"self.emptyArray[5]: %@",self.array0[4]);
