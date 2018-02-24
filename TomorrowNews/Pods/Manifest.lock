@@ -1,0 +1,35 @@
+PODS:
+  - Alamofire (4.5.0)
+  - IQKeyboardManager (4.0.12)
+  - LeoDanmakuKit (1.0.1)
+  - LLSwitch (1.0.4)
+  - Moya (8.0.5):
+    - Moya/Core (= 8.0.5)
+  - Moya/Core (8.0.5):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - ObjectMapper (2.2.8)
+  - PageMenu (2.0.0)
+  - Result (3.2.3)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - LeoDanmakuKit (~> 1.0.1)
+  - LLSwitch
+  - Moya
+  - ObjectMapper
+  - PageMenu
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  IQKeyboardManager: feb4562ba22266c179801a76228017f7a3c0d111
+  LeoDanmakuKit: d905bf4ba6c47c5e690796f2581e7934c22cdb83
+  LLSwitch: b5f0e574b4c53f46806df015cd21285464d4b440
+  Moya: c37eec09a098ba9991b5a963b291fc5704bdb9ef
+  ObjectMapper: 3d571bb5af471c779e1160828cd9ad5c4ef90958
+  PageMenu: 9c38fd7e0d9ef4b1408320f55bb907bbc0e538dc
+  Result: 128640a6347e8d2ae48b142556739a2d13f90ce6
+
+PODFILE CHECKSUM: 378dee039e18fc3d67d89f7182360a9bde60c01d
+
+COCOAPODS: 1.1.1
