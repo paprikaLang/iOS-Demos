@@ -1,6 +1,7 @@
 //: Playground - noun: a place where people can play
 import PlaygroundSupport
 import UIKit
+import Foundation
 struct Episode {
     let title: String
 }
