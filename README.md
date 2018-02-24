@@ -14,4 +14,5 @@
 
 [CAReplicatorLayer相关动画](https://github.com/paprikaLang/iOS-Demos/tree/master/CAReplicator)
 
+[MAMP+Wordpress搭建简易后端平台](https://github.com/paprikaLang/iOS-Demos/tree/master/TomorrowNews)
 
